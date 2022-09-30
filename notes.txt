@@ -1,0 +1,6 @@
+youtube:
+https://www.youtube.com/watch?v=oC6sKlhz0OE&t=311s
+
+mongo db cheatsheet:
+https://www.mongodb.com/developer/products/mongodb/cheat-sheet/#connect-mongodb-shell
+
